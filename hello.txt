@@ -6,3 +6,4 @@ centos 7系统的下载地址:https://mirrors.tuna.tsinghua.edu.cn/gitlab-ce/yum
 
 下载rpm包并安装:
 hot-fix: 11111
+master: 1111
