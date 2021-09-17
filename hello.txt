@@ -1,0 +1,7 @@
+centos 6系统的下载地址:https://mirrors.tuna.tsinghua.edu.cn/gitlab-ce/yum/el6
+
+centos 7系统的下载地址:https://mirrors.tuna.tsinghua.edu.cn/gitlab-ce/yum/el7
+
+我在此处选择了一个较新的版本11.3.3，以方便大家后续的升级
+
+下载rpm包并安装:
